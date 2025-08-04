@@ -1,0 +1,2 @@
+# Energy-Consumption-Forecasting-in-Smart-Homes-Using-ML
+Energy consumption forecasting in smart homes using machine learning (ML) involves the application of advanced algorithms to predict future energy usage based on historical data and contextual factors. With the rise of smart meters, IoT devices, and home automation systems, a vast amount of real-time energy consumption data is generated in houses.
